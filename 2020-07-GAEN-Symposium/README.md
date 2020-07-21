@@ -1,4 +1,4 @@
-##LFPH GAEN Symposium##
+#LFPH GAEN Symposium#
 
 July 16, 2020
 
