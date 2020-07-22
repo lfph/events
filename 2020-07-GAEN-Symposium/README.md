@@ -4,7 +4,7 @@ July 16, 2020
 
 LF Public Health was excited to host our first event, a [half-day symposium](https://events.linuxfoundation.org/gaen-symposium) dedicated to discussing some of the hard problems around implementing Google and Apple’s Exposure Notification (GAEN) apps. We gathered over 150 technologists, public health employees, and epidemiologists together to discuss how we could work together to make exposure notification succeed. 
 
-Discussion was lively in both a plenary session and six breakout sessions. Notes from the event and videos will soon be available to the public on our GitHub. 
+Discussion was lively in both a plenary session and five breakout sessions. Notes from the event are available here and videos are available on [YouTube](https://www.youtube.com/playlist?list=PLLUsXRAaict7U00sMcwdLWwPPfRwpnMs5). 
 
 We reviewed the following topics for the symposium:
 
