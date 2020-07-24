@@ -14,6 +14,7 @@
 *   [PEPP-PT Exposure Measurements](https://github.com/pepp-pt/pepp-pt-documentation/tree/master/12-proximity-measurement)
 *   [SwissCovid ExposureScore](https://github.com/admin-ch/PT-System-Documents/blob/master/SwissCovid-ExposureScore.pdf)
 *   [contacTUM paper](https://arxiv.org/abs/2006.16960)
+*   [Fraunhofer IIS slidedeck](https://github.com/corona-warn-app/cwa-documentation/blob/master/2020_06_24_Corona_API_measurements.pdf)
 
 
 ### Survey
