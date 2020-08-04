@@ -20,3 +20,14 @@ We reviewed the following topics for the symposium:
   * Sharing data across apps as users travel from one jurisdiction to another
 * Epidemiology for app builders
   * What developers need to know about how COVID-19 is transmitted and diagnosed
+
+## Thank You
+
+And of course, a big thank you to the volunteers who made this event possible: 
+
+* Kate Gallagher, TCN Coalition
+* Patrick Kent, TCN Coalition
+* Tara Shilkret, Covid Watch
+* TE Shaw, LFPH
+* Cathal Rynne, Covid Watch
+* Richard Tran, Covid Watch
