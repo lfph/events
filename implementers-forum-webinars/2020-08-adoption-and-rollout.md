@@ -33,7 +33,7 @@ PHI - Public Health Intervention
     *   The presenter showed a website that advertises a first pair of glasses free
     *   He then noted that there were several details that were problematic - the free shipping was only for orders over a certain amount and there were a number of terms and conditions to be met
     *   The expected conversion rate for an ad such as this in the tech world might be 1% or thereabouts
-    ![GlassesShop Banner Advertisement - First Pair Free](https://github.com/lfph/events/blob/jennydove-adoption-and-rollout/img/glassesshop.png)
+    ![alt text](https://github.com/lfph/events/blob/master/img/glassesshop.png "GlassesShop Banner Advertisement - First Pair Free")
 *   Example: getting glasses to kids who need them - Public Health Side
     *   Examined a [press release from NY state](http://www.nysed.gov/news/2018/state-education-department-announces-no-cost-childrens-eye-exams-glasses-and-resources)
     *   They had several key activities they did:
