@@ -80,6 +80,8 @@ As with our last Implementer’s Forum event, we followed [Chatham House Rule](h
 
 ## Analytics update from Finland
 
+You can also watch the [video](https://youtu.be/TW2jYY8RiDo) on YouTube.
+
 *   Their app has been launched for about a month 
 *   When developing the app they were targeting 1 million downloads in the first month - they hit that number in the first day
 *   Their current downloads are at about 2.26 million and that means that 40.9% of the population has an app and 51.2% of Finnish smartphones have the app running on them
